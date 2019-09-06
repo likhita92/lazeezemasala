@@ -67,12 +67,12 @@ p{
 }
 
 /* Features */
-#features{
+/*#features{
 padding: 7% 15%;
 background-color: #fff;
 z-index: 1;
 position: relative;
-}
+}*/
 .feature-box{
   text-align: center;
   padding: 5%;
