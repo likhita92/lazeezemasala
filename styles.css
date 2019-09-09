@@ -3,13 +3,13 @@ body{
 }
 
 #title{
-  background-color: #e7f03a;
+width: 100%;
   color: #fff;
   margin-bottom: 0%;
 }
 .container-fluid{
-padding: 3% 15%;
-background-image: url("bkg1.jpg");
+padding: 3% 5%;
+background-image: url("home_bkg.jpg");
 }
 h1{
     font-family: "Montserrat";
@@ -41,7 +41,7 @@ p{
   image-orientation:
 }*/
 .navbar-image{
-  width: 20%;
+  width: 10%;
   height: auto;
   border-radius: 10%;
   margin: 20px;
@@ -100,7 +100,7 @@ div.slide-down h1 {
 
 /* Features */
 #features{
-padding: 7% 15%;
+padding: 7% ;
 background-color: #fff;
 z-index: 1;
 position: relative;
@@ -126,7 +126,7 @@ position: relative;
 .testimonial-image{
   width: 10%;
   border-radius: 100%;
-  margin: 20px;
+  margin: 10px;
 }
 /* Press */
 #press{
@@ -160,22 +160,23 @@ position: relative;
 
 
 #footer-menu{
-background-color: #adadad;
+background-color: #000000;
+padding: 3% ;
 z-index: 1;
-margin:auto;
 position: relative;
 }
 
 .footer-box{
   text-align: left;
-  padding: 3%;
+  padding-top: 2%;
+
 }
 
 #footer{
 
-padding-top: 2%;
-padding-bottom:1%;
-background-color: #000;
-z-index: 1;
+padding-top: 1%;
+padding-bottom: 1%;
+background-color:#363636;
+
 position: relative;
 }
